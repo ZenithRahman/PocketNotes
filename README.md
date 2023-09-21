@@ -9,10 +9,10 @@ I believe this app could prove beneficial for HSC and Admission candidates, so I
 
 ## Screenshots
 <p float="center">
-  <img src="images/Screenshot_2.png" width="470" />
-  <img src="images/Screenshot_3.png" width="470" />
+  <img src="images/Screenshot_2.png" width="410" />
+  <img src="images/Screenshot_3.png" width="410" />
 </p>
 <p float="center">
-  <img src="images/Screenshot_6.png" width="470" />
-  <img src="images/Screenshot_5.png" width="470" />
+  <img src="images/Screenshot_6.png" width="410" />
+  <img src="images/Screenshot_5.png" width="410" />
 </p>
