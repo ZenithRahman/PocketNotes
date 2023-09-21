@@ -13,6 +13,6 @@ I believe this app could prove beneficial for HSC and Admission candidates, so I
   <img src="images/Screenshot_3.png" width="500" />
 </p>
 <p float="center">
-  <img src="images/Screenshot_4.png" width="500" />
+  <img src="images/Screenshot_6.png" width="500" />
   <img src="images/Screenshot_5.png" width="500" />
 </p>
