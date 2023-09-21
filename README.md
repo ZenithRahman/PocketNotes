@@ -1,16 +1,18 @@
-# pocket_notes
+# Pocket Notes [WIP]
+<p align="center">
+<img align="center" src="images/Screenshot_1.png" width= 228 height= 494 >
+</p>
+An app I wrote for personal use, allowing me to access formulas conveniently while on the move, eliminating the need to carry physical books and notes.
 
-A new Flutter project.
+## Future release
+I believe this app could prove beneficial for HSC and Admission candidates, so I'm considering publishing it on the Play Store. However, before doing so, I intend to enhance the app to provide a smoother user experience, as the current user interface looks kinda garbage TBH. This project is made using the Flutter framework
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p float="center">
+  <img src="images/Screenshot_2.png" width="500" />
+  <img src="images/Screenshot_3.png" width="500" />
+</p>
+<p float="center">
+  <img src="images/Screenshot_4.png" width="500" />
+  <img src="images/Screenshot_5.png" width="500" />
+</p>
